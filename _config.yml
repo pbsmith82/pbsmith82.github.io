@@ -5,8 +5,8 @@ header-img: img/home-bg.png
 email: pbsmith82@gmail.com
 copyright_name: Phillip Smith
 description: > # this means to ignore newlines until "baseurl:"
-  Learning to Code 
-baseurl:"/_posts" # the subpath of your site, e.g. /blog
+  Learning to Code
+baseurl: "/_posts" 
 twitter_username: 
 github_username:  pbsmith82
 
