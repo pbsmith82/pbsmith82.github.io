@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: post-full
 title:      "The First Mile"
 date:       2020-08-27 18:00:34 -0400
+featimg: 2.jpg
+tags: [text]
+category: [standard]
 permalink:  the_first_mile
-theme: jekyll-theme-cayman
 ---
 
 
