@@ -1,9 +1,8 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
-destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+name: Software Engineering - The Journey 
+description: 'My journey to learn to code.'
+url: 'https://pbsmith82.github.io/'
+baseurl: ''
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -40,7 +39,13 @@ kramdown:
   syntax_highlighter: rouge
 relative_permalinks: false
 exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, jekyllbuild]
-
+author:
+  name: 'Phillip Smith'
+  email: 'psmith@phillipbsmith.com'
+  twitter_username: psmith561
+  facebook_username: phillbrad
+  github_username:  pbsmith82
+  linkedin_username:  phillip-b-smith-profile
 # prose.io configurations
 prose:
   media: "img"
