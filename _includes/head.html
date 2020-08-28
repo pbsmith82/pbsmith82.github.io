@@ -1,9 +1,13 @@
-<meta charset="UTF-8">
-<title>{{ site.name }}{% if page.title %} - {{ page.title }} {% endif%}</title>
-{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
-<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:500,600' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{ site.baseurl | replace: '//', '/' }}/css/main.css">
-<link rel="stylesheet" id="color-change" href="">
-<link rel="stylesheet" id="switch-style" href="{{ site.baseurl | replace: '//', '/' }}/css/grid.css">
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl | prepend: site.url | replace: '//', '/' }}/feed.xml">
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <base href="{{ site.baseurl }}">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/forestryio/ubuild-blocks@1.0.0/dist/css/ubuild.css"/>
+  </head>
+  <body>
