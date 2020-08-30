@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The First Mile
-date:  2020-08-27 18:00:34 -0400
+date:  2020-08-27 18:00:34 
 cover: 'assets/images/shiva.jpg'
-tags: [text]
+tags: [FlatIron, First Mile]
 permalink:  the_first_mile
 author: Phill
 ---
