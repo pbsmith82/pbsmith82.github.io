@@ -28,7 +28,7 @@ title:                 Software Engeineering - My Journey
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-This blog is meant to document my journey while learning to code. 
+  This blog is meant to document my journey while learning to code.
 
 # A shorter description for the sidebar.
 tagline:               My Journey to learning to Code in 2020
