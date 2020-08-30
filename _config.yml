@@ -304,7 +304,7 @@ hydejack:
 exclude:
   - .jekyll-cache
   - .sass-cache
-  - vendor
+  #- vendor
   - Gemfile
   - Gemfile.lock
 include:
