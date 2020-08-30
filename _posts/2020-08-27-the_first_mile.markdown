@@ -1,13 +1,11 @@
 ---
 layout: post
-title: The First Mile
-date:  2020-08-27 18:00:34 
-cover: 'assets/images/shiva.jpg'
-tags: [FlatIron, First Mile]
+title:      "The First Mile"
+date:       2020-08-27 18:00:34 -0400
 permalink:  the_first_mile
-author: Phill
 ---
 
+![](https://pbsmith82.github.io/assets/img/logo.png)
 
 First, let me introduce myself. My name is Phillip Smith and I am a product expert for a software company. I have decided to further my knowledge and experience by learning the coding side of product development. I have experience in simple html, css, and python but looking to improve my knowledge greatly. 
 
