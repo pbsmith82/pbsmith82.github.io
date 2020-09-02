@@ -1,6 +1,6 @@
 # This file contains meta data for various social media sites
 email:
-  name: Email
+  name: psmith@phillipbsmith.com
   icon: icon-mail
   prepend: 'mailto:'
 amazon:
@@ -35,7 +35,7 @@ telegram:
   name: Telegram
   icon: icon-telegram
 twitter:
-  name: Twitter
+  name: PSmith561
   icon: icon-twitter
   prepend: 'https://twitter.com/'
 vine:
@@ -102,7 +102,7 @@ ondrive:
   name: OneDrive
   icon: icon-ondrive
 github:
-  name: GitHub
+  name: pbsmith82
   icon: icon-github
   prepend: "https://github.com/"
 npm:
@@ -157,7 +157,7 @@ wikipedia:
   name: Wikipedia
   icon: icon-wikipedia
 linkedin:
-  name: LinkedIn
+  name: phillip-b-smith-profile
   icon: icon-linkedin2
   prepend: "https://www.linkedin.com/in/"
 lastfm:

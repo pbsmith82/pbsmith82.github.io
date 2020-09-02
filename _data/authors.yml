@@ -26,9 +26,9 @@ Phill:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         PSmith561
+    github:          pbsmith82
+    email:           psmith@phillipbsmith.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +57,7 @@ Phill:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:          phillip-b-smith-profile
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
