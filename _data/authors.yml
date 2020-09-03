@@ -8,24 +8,26 @@ Phill:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-Phillip Smith is currently the Senior Enterprise Implementation Manager & Product Expert for a leading Software Enterprise. Over the years, he has demonstrated his commitment to building client-centered teams and has proudly served alongside local leaders in the addiction treatment and recovery field. 
-
-His core areas of expertise include…
-
-◆ Certified Scrum Manager
-◆ Certified Scrum Product Owner
-◆ Microsoft Dynamics CRM management & implementation
-◆ Admissions and Marketing Initiatives
-◆ Patient Assessments and Insurance Verification
-◆ Intake Coordination and Treatment Planning
-◆ Community Outreach and Support
-◆ Team Building and Staff Development
-
-He's a proud advocate of the LGBTQIA+ community and served on the Board of Directors at Lambda of the Palm Beaches, Inc., a not-for-profit organization offering tailored 12-step services for many years.
+    Phillip Smith is currently the Senior Enterprise Implementation Manager & Product Expert 
+    for a leading Software Enterprise. Over the years, he has demonstrated his commitment to 
+    building client-centered teams and has proudly served alongside local leaders in the 
+    addiction treatment and recovery field. 
     
+    His core areas of expertise include…
     
-    
+    ◆ Certified Scrum Manager
+    ◆ Certified Scrum Product Owner
+    ◆ Microsoft Dynamics CRM management & implementation
+    ◆ Admissions and Marketing Initiatives
+    ◆ Patient Assessments and Insurance Verification
+    ◆ Intake Coordination and Treatment Planning
+    ◆ Community Outreach and Support
+    ◆ Team Building and Staff Development
 
+    He's a proud advocate of the LGBTQIA+ community and served on the Board of Directors at 
+    Lambda of the Palm Beaches, Inc., a not-for-profit organization offering tailored 12-step 
+    services for many years.
+    
   # This photo will be used in the about section
   picture:
     path:            https://pbsmith82.github.io/assets/img/logo.png
