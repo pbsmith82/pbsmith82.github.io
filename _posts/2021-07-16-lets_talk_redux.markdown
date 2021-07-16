@@ -8,7 +8,7 @@ permalink:  lets_talk_redux
 
 Redux is often used with React and is a predictable state container that was released in 2015 and was created by Dan Abramov and Andrew Clark. It is meant to help apps behave consistently across environments. It is also makes testing your app easier. 
 
-It is used as a state management tool with React, but it can be used with any other JavaScript framework. Redux allows your applications state to be stored in a "store". This allows each component to access any state that it needs.
+It is used with React to mange state. Redux can also work with other JavaScript frameworks. Redux allows your applications state to be stored in a "store". This enables components to be more effecient, only accessing the state data it needs.
 
 Anyone who researches Redux can see there are a series of benefits and limitations. Some people would redux has been a hot topic for discussion. Below is a list of some it's benefits and Limitations. 
 
